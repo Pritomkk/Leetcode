@@ -1,0 +1,2 @@
+# Leetcode
+Die Wurzel lernen 🔥
